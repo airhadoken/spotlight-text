@@ -1,0 +1,8 @@
+This is spotlight-text, an HTML5 canvas experiment.
+
+To play with this experiment, type any text into the text box and it 
+will first display with a left-to-right swipe, then disappear with the 
+same transition.
+
+Some primitive particle effects happen around the line where the text is 
+sweeping in.
